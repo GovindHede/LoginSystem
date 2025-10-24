@@ -67,6 +67,4 @@ login_system/
 ├── manage.py
 └── requirements.txt
 
-
-Contributing
-Contributions are welcome! Please fork this repository and submit a pull request for any improvements.
+### it is builded for learning purpose
